@@ -119,6 +119,8 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+/kian_backend/node_modules
+
 # Environments
 .env
 .venv
