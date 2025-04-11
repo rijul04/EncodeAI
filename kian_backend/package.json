@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ai-sdk/cerebras": "^0.2.9",
+    "@daydreamsai/core": "^0.3.0",
+    "@openrouter/ai-sdk-provider": "^0.4.5",
+    "ai": "^4.3.4",
+    "dotenv": "^16.5.0"
+  }
+}
