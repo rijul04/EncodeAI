@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@daydreamsai/create-agent": "^0.3.0",
-    "pnpm": "^10.8.0"
-  }
-}

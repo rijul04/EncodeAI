@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@ai-sdk/groq": "^1.2.7",
-    "@daydreamsai/cli": "^0.3.0",
-    "@daydreamsai/core": "^0.3.0"
-  }
-}
